@@ -177,7 +177,6 @@ clang++ -Wall -Wextra -Werror -std=c++98
 * [cppreference.com](https://en.cppreference.com/)
 * [cplusplus.com](https://cplusplus.com/)
 * 42/1337 subject PDF for CPP00
-* *A Tour of C++* – Bjarne Stroustrup
 
 ---
 
